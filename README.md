@@ -2,8 +2,11 @@
 An XR eCommerce proof of concept application. The usecase is to enable the purchase of digital goods in a virtual space to acquire digital assets and/or NFTs in a "metaverse" environment and be able to exchange vouchers for physical goods. 
 <br />
 <br />
-This proof of concept was created in Unreal 5. Project cannot be shared due to upload limitations.
-
+This proof of concept was created using Unreal 5 (blueprints), Blender (Custom 3D models), Photoshop (Texture and Image creation). 
+<br  />
+Project cannot be shared due to upload limitations.
+<br />
+<br />
 ## Login
 A user can sign into various crypto wallets to connect them for payments, or they can sign in as a guest
 ![](https://github.com/Flare5464/Payment-Living-Labs/blob/main/PLL_A.gif)
