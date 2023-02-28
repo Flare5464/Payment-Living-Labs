@@ -10,11 +10,11 @@ Project cannot be shared due to upload limitations.
 ## Login
 A user can sign into various crypto wallets to connect them for payments, or they can sign in as a guest
 ![](https://github.com/Flare5464/Payment-Living-Labs/blob/main/PLL_A.gif)
-![](https://github.com/Flare5464/Payment-Living-Labs/blob/main/PLL_D.gif)
 <br  />
 ## Environment
 The world can have various retail shops from electronics to clothing
 ![](https://github.com/Flare5464/Payment-Living-Labs/blob/main/PLL_B.gif)
+![](https://github.com/Flare5464/Payment-Living-Labs/blob/main/PLL_D.gif)
 ## Crypto Checkout
 Users that have signed into their crypto accounts can easily pay for goods. Guests can sign into them during payment. 
 ![](https://github.com/Flare5464/Payment-Living-Labs/blob/main/PLL_C.gif)
